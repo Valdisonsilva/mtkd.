@@ -337,24 +337,25 @@ main{
     margin-top: 15%;
     box-shadow: 10px 7px 20px;
     border-radius: 10px;
-    background-color: white;
+    background-color: whit;
 
     
 }
 /* texto */
 section{
-    background-color: white;
+    background-color: whit;
 
     width: 90%;
-    height: 60%;
+    height: 80%;
     text-align-last: 20%;
     text-align: center;
-    text-align: 0;
+    text-align: justify;
     margin-top: 10%;
     padding: 5px;
     grid-column: 8/18;
     grid-row:3/4;
-    font-size: 62%;
+    font-size: 60%;
+    font-family: Arial, Helvetica, sans-serif;
     box-shadow: 10px 7px 20px;
     border-radius: 10px;
     margin-left: 5%;
@@ -435,7 +436,7 @@ section{
     grid-column: 5/18;
     grid-row: 3/6;
     font-size:62%;
-    background-color: white;
+    background-color: rgb(246, 243, 243);
     box-shadow: 10px 10px 20px;
     border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
